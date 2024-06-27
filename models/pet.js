@@ -16,5 +16,5 @@ module.exports = [
         species: "bird",
         breed: "parrot",
         age: 5
-    },
+    }
 ]
